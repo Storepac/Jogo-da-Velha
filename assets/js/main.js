@@ -1,5 +1,5 @@
 const jogo_da_velha ={
-      // ATTRIBUTES
+      
       board: ['','','','','','','','',''],
       symbols: {
                   options: ['O','X'],
